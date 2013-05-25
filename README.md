@@ -1,14 +1,14 @@
-REPL Output for Écoute
+REPL Output for Écoule
 ======================
-An [Écoute][ecoute-core] transform output that creates a Read-eval-print loop from a given Écoute transformer output.
+An [Écoule][ecoule-core] transform output that creates a Read-eval-print loop from a given Écoule transformer output.
 
-[ecoute-core]: https://github.com/gausby/ecoute
+[ecoule-core]: https://github.com/gausby/ecoule
 
 This outputer can be used to inspect the output of a transformer.
 
 
 ## Usage
-Attach it as an output of an Écoute data transformer. It takes one configuration option:
+Attach it as an output of an Écoule data transformer. It takes one configuration option:
 
   * `key` The key the output should get assigned to in the REPL instance. Default: *output*.
 

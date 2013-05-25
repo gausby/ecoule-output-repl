@@ -1,10 +1,10 @@
 {
-    "name": "ecoute-output-repl",
+    "name": "ecoule-output-repl",
     "version": "0.0.1",
-    "description": "An Écoute transform output that creates a REPL from a given transformer output.",
+    "description": "An Écoule transform output that creates a REPL from a given transformer output.",
     "author": "Martin Gausby <martin@gausby.dk>",
-    "repository": "git@github.com:gausby/ecoute-output-repl.git",
-    "main": "lib/ecoute-output-repl.js",
+    "repository": "git@github.com:gausby/ecoule-output-repl.git",
+    "main": "lib/ecoule-output-repl.js",
     "dependencies": {
     },
     "devDependencies": {
